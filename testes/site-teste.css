@@ -1,3 +1,11 @@
+#titulo{
+    margin-left: 7%;
+}
+
+#subtitulo{
+    margin-right: 30%;
+}
+
 body{
     font-family: sans-serif;
     font-size: 1em;
@@ -9,3 +17,4 @@ body{
 fieldset{ 
     border: 0;
 }
+
