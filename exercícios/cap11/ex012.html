@@ -11,10 +11,18 @@
     <h2>Tente abrir esse site em dispositivos diferentes.</h2>
 
     <picture>
-        <source media="(min-width: 1050px)" srcset="imagens/maior.png" type="image/png">
-        <source media="(min-width: 750px)" srcset="imagens/médio.png" type="image/png">
-        <img src="imagens/pequena.png" alt="imagem variável">
+        <source media="(min-width: 1050px)" srcset="midia/maior.png" type="image/png">
+        <source media="(min-width: 750px)" srcset="midia/médio.png" type="image/png">
+        <img src="midia/pequena.png" alt="imagem variável">
     </picture>
+
+    <h1>Reproduzindo áudios</h1>
+    <audio src="midia/russia.mp3" controls autoplay></audio>
+    <!--MP3 WAV OGG-->
+    <audio autoplay controls>
+        <source src="midia/russia.mp3" type="audio/mpeg">
+        <source src="midia/russia.ogg" type="audio/ogg">
+    </audio>
     
 </body>
 </html>
