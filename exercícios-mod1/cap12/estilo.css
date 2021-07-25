@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(216, 245, 138);
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color: violet;
+}
+
+h2{
+    color: tomato;
+}
+p{
+    color:yellowgreen;
+}
