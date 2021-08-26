@@ -1,0 +1,27 @@
+@charset "UTF-8"; /*serve para não ter problemas de compatibilidade com caracteres dentro das CSS*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(to right, #dfbbb1,#f56476,#e43f6f);
+}
+p{
+    text-align: justify;
+}
+main{
+    background-color: rgb(241, 183, 202);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(148, 39, 84);
+}
+h1{
+    color: #008dd5;
+    text-align: center;
+    text-shadow:1px 1px 2px rgb(48, 73, 129);
+}
+h2{
+    color: #373f51;
+}
