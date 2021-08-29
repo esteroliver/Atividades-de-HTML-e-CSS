@@ -8,6 +8,17 @@ h1{
     color: cadetblue;
 }
 
+h1#principal{
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+}
+
 h2{
     color: coral;
+}
+
+h2.basico{
+    background-color: tomato;
+    color: thistle;
 }
